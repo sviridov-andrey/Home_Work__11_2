@@ -7,3 +7,5 @@ def str_title(str):
     """создает заголовок"""
     return str.title()
 
+
+# her was the FIX
